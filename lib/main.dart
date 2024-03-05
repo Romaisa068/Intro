@@ -30,12 +30,12 @@ class MyApp extends StatelessWidget {
                 "Bishop Mano",
                 style: TextStyle(
                     fontSize: 35,
-                    fontFamily: 'Pacifico',
+                    fontFamily: 'Anta',
                     color: Colors.white,
                     fontWeight: FontWeight.bold),
               ),
               SizedBox(
-                height: 13.0,
+                height: 8.0,
               ),
               Text(
                 "Flutter Developer",
